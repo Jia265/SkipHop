@@ -1,0 +1,11 @@
+validTokenMove {
+    background-color: darkgreen;
+}
+
+tokenLocation {
+    background-color: deepskyblue;
+}
+
+opponentTokenLocation {
+    background-color: red;
+}
