@@ -1,4 +1,4 @@
-export enum cellStatus {
+export enum CellStatus {
   token,
   validMove,
   opponentToken,
