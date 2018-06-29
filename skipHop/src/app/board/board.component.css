@@ -1,0 +1,16 @@
+.boardCell{
+  height: 100px;
+  width: 100px;
+}
+
+.starCell{
+  background-color: yellow;
+}
+
+.opponentCell{
+  background-color: red;
+}
+
+.tokenCell{
+  background-color: deepskyblue;
+}
